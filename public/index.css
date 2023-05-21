@@ -1,0 +1,266 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navButton{
+    color: #fff;
+    margin-left: 2em;
+    margin-right: 1em;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.icon{
+    margin : 1em;
+    height: 5em;
+    width: auto;
+    
+    color: #fff;
+    font-size: 5rem;
+    font-family: 'Kolker Brush', cursive;
+}
+
+.divFirst{
+    background-image: url("../src/components/asset/footer.jpg");
+    padding: 0 8em 4% 8em;
+    background-color: rgba(18, 242, 6, 0.655);
+    
+}
+
+.imageCar{
+    height: 20em;
+}
+
+.basic_icon_h3{
+    font-size: 6rem;
+    color: #fff;
+    font-weight: 800;
+    font-family: 'Pacifico', cursive;
+}
+
+.basic_icon{
+    height: 10em;
+    margin: 2rem 0 2rem 0;
+}
+
+.register_h3{
+    font-weight: 600;
+    margin: 2em;
+}
+
+.info_h4{
+    font-size: 1.5rem;
+    border: .1em rgba(18, 242, 6, 0.655) solid;
+    margin: 1em 4em;
+    border-radius: 5% ;
+    box-shadow: 20px 20px rgba(141, 255, 135, 0.655);
+    padding: 1em 2em;
+    color: grey;
+    background-color:aliceblue;
+}
+
+.match_h2{
+    margin: 5rem;
+    font-size: 4em;
+    color: rgba(18, 242, 6, 0.655);
+    font-weight: 800;
+    font-family: 'Secular One', sans-serif;
+}
+
+.youthful_div{
+    border: rgba(18, 242, 6, 0.655) .1em solid;
+    margin: 1em;
+    border-radius: 100px;
+    background-color:rgba(18, 242, 6, 0.655);
+    color: #fff;
+    padding-bottom: 2rem;
+}
+
+.carousel_h3{
+    margin-top: 2em;
+    font-size: 3em;
+    font-family: 'Pacifico', cursive;
+    color: #fff;
+    margin-left: 2em;
+}
+
+.carousel_image{
+    margin: 8em 3em 3em 0 ;
+    font-size: 1.1em;
+    border-radius: 20px;
+    height: 20em;
+    width: auto;
+}
+
+.carousel_text{
+    margin: 2em 0 0 9em;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2rem;
+}
+
+.box{
+    height: 18rem;
+    width: 18rem;
+    background-color: rgba(18, 242, 6, 0.655);
+    margin: 2rem;
+    border-radius: 3rem;
+}
+
+.features_div{
+    justify-content: center;
+    padding: 4rem 5rem 4rem 5rem ;
+    margin: 0;
+}
+
+.feature_image{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 10rem;
+    width: 10rem;
+    border-radius: 10rem;
+}
+
+.feature_h6{
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.about_div{
+    padding: 4rem 0 4rem 0;
+    background-color: rgba(18, 242, 6, 0.655);
+    color: #fff;
+}
+
+.about_image{
+    border-radius: 1rem;
+}
+
+.about_services_div{
+    text-align: left;
+}
+
+.about_link_div{
+    text-align: left;
+}
+
+.about_link_div a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.footer_div img{
+    width: 1.2rem;
+    margin: 1rem;
+}
+
+.footer{
+    padding: 5% 15% 4%;
+    background-color: #fff;
+}
+
+.footer-para{
+    color: #8f8f8f;
+}
+
+.about_h2{
+    margin: 2rem;
+    font-size: 4em;
+    color: rgba(18, 242, 6, 0.655);
+    font-weight: 800;
+    font-family: 'Secular One', sans-serif;
+}
+
+.about_us_content_div{
+    margin: 0 10em 0 10em;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2rem;
+    background-color: rgba(18, 242, 6, 0.655);
+    color: white;
+    border-radius: 3rem;
+}
+
+.gallery{
+    margin-top: 1.5em;
+}
+
+.about_us_content{
+    padding: 2.5em 2em;
+}
+
+.about_us_images_div{
+    margin:4em 10em 4em 10em;
+    padding-bottom: 1em;
+    background-color: rgba(18, 242, 6, 0.655);
+    border-radius: 1rem;
+}
+
+.about_us_image{
+    height: 20em;
+    width: 25em;
+    margin: 3em 3em 0 3em;
+    border-radius: 2em;
+}
+
+.about_image_h3{
+    color: #fff;
+    padding-bottom: 1em;
+    padding-top: 0.5em;
+}
+
+.services_offered{
+    margin: 2em 0 0 0 ;
+}
+
+.form_data, .login, .register{
+  height:auto;
+  width:500px;
+  border:2px solid rgba(18, 242, 6, 0.655);
+  margin:5% 35%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  color:white;
+  background-color:rgba(18, 242, 6, 0.655);
+  font-size: 1.5em;
+  font-family: 'Secular One', sans-serif;
+}
+
+.us{
+    margin: 2rem;
+    font-size: 2em;
+    color:#fff;
+    font-weight: 800;
+    font-family: 'Secular One', sans-serif;
+}
+
+.log{
+    margin: 1em 0 0 0;
+    font-size: 2em;
+    color:#fff;
+    font-weight: 800;
+    font-family: 'Secular One', sans-serif;
+}
+
+.hed{
+    margin: 1em 0 0 0;
+    font-size: 2em;
+    color:#fff;
+    font-weight: 800;
+    font-family: 'Secular One', sans-serif;
+}
+
+
+.container {
+    height: 330px;
+    width: 520px;
+    border: 2px solid rgba(18, 242, 6, 0.655);
+    margin: 16px 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
